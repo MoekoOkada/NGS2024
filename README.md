@@ -12,7 +12,7 @@
 
 #### Rmarkdownまとめ
 
-- <>
+- <https://github.com/MoekoOkada/NGS2024/blob/main/review_markdown.md>
 
 ### 2024年11月12日
 
