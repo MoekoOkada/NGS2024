@@ -4,7 +4,7 @@
 
 #### RENKUのセットアップ
 
-- <>
+- <https://github.com/MoekoOkada/NGS2024/blob/main/renku_setup.md>
 
 #### コマンドラインまとめ
 
