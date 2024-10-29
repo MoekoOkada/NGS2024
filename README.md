@@ -14,6 +14,10 @@
 
 - <https://github.com/MoekoOkada/NGS2024/blob/main/review_markdown.md>
 
+#### 課題
+
+- <https://github.com/MoekoOkada/NGS2024/blob/main/exercises.md>
+
 ### 2024年11月12日
 
 
