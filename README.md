@@ -20,5 +20,6 @@
 
 ### 2024年11月12日
 
+- <https://github.com/MoekoOkada/NGS2024/blob/main/RNAseq_20241112.md>
 
 ### 2024年11月13日
